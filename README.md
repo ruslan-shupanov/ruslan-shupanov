@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Junior Technical Writer. Glad to meet you:smiley:. 
+I'm a Junior Technical Writer. Glad to meet you:octocat:. 
 - 🔭 I’m currently working on API
 - 🌱 I’m currently learning English
 <!--
