@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 I'm a Junior Technical Writer. Glad to meet you :space_invader:. 
 - 🔭 I’m currently working on API
 - 🌱 I’m currently learning English
