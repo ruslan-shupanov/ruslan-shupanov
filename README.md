@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm a Technical Writer. Glad to meet you :space_invader:. 
 - 🔭 I’m currently working on API
-- 🌱 I’m currently learning English
+- 🌱 I’m currently learning German
 - ⚡ Fun fact: You are here  
 # A little more about me ![Alt Text](https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966)
 Currently learning new technologies to implement on real world projects.
